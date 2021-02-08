@@ -13,6 +13,10 @@ body {
   width: 450px;
 }
 
+audio{
+  margin-top: 44px;
+}
+
 audio:focus {
   outline: none;
 }
